@@ -51,7 +51,10 @@
 			<p>
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate nesciunt quasi distinctio
 				accusamus necessitatibus ex quos facere sint consequuntur quas iste, temporibus deleniti
-				sequi! Ipsa totam quo vitae ut consequuntur.
+				sequi! Ipsa totam quo vitae ut consequuntur. Lorem ipsum dolor sit amet consectetur
+				adipisicing elit. Ratione ipsa omnis vitae possimus voluptatum pariatur officia quia,
+				numquam, quas corrupti sapiente minus sunt saepe harum, rem consequuntur laudantium est!
+				Velit.
 			</p>
 		</div>
 	</div>
@@ -69,7 +72,7 @@
 
 	.center {
 		width: 100%;
-		height: 100vh;
+		min-height: 100vh;
 
 		display: flex;
 		flex-direction: column;
